@@ -20,6 +20,7 @@ la création de branches, de commits et de fusions.
 | 10 | `mv file1 file1.txt` | Renomme `file1` en `file1.txt` |
 | 11 | `rm file3` | Supprime `file3` |
 
+
 ## Diagramme du flow (branches & commits)
 
 ```text
@@ -32,6 +33,8 @@ la création de branches, de commits et de fusions.
    |-- C2 : ajout README / mv file1.txt / rm file3
             |
             +--> merge --------> M2
+
+
 
 
 ## Installation de Git
